@@ -6,13 +6,13 @@ Nuxt.js is a framework for creating Universal Vue.js Applications. It presets al
 
 As a framework, Nuxt comes with a lot of features to help you in your development between the client side and the server side such as Asynchronous Data, Middleware, Layouts, etc. More info can be found [here](https://nuxtjs.org/).
 
-Deployed on [https://nuxt-type.now.sh/](https://nuxt-type.now.sh/)
+Deployed on [https://nuxt-type2.now.sh/](https://nuxt-type2.now.sh/)
 
-![Nuxt page transitions screenshot](https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/nuxt-hero.gif "Nuxt Page Transitions")
+![Nuxt page transitions screenshot](https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/nuxt-hero.gif 'Nuxt Page Transitions')
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 yarn
 
